@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be6624bc-a53d-4fd0-95ea-429f15017ec0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="be6624bc-a53d-4fd0-95ea-429f15017ec0" name="Changes" comment="Initial commit, file encryption">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +80,24 @@
       <workItem from="1726601664442" duration="1919000" />
       <workItem from="1726603588570" duration="45000" />
       <workItem from="1726603651042" duration="553000" />
-      <workItem from="1726604216153" duration="1784000" />
+      <workItem from="1726604216153" duration="2098000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit, file encryption">
+      <option name="closed" value="true" />
+      <created>1726606307309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726606307309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit, file encryption" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit, file encryption" />
   </component>
 </project>
