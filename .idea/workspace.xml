@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be6624bc-a53d-4fd0-95ea-429f15017ec0" name="Changes" comment="Initial commit, file encryption">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/goat/IdeaProjects/PrivacyDrive",
     "node.js.detected.package.eslint": "true",
@@ -81,6 +82,7 @@
       <workItem from="1726603588570" duration="45000" />
       <workItem from="1726603651042" duration="553000" />
       <workItem from="1726604216153" duration="2098000" />
+      <workItem from="1726690886976" duration="4568000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit, file encryption">
       <option name="closed" value="true" />
