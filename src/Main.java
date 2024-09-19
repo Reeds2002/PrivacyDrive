@@ -28,7 +28,7 @@ public class Main {
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
-        }    WriteToFile writeToFile = new WriteToFile();
+        }
 
         try {
             FileWriter myWriter = new FileWriter("filename.txt");
